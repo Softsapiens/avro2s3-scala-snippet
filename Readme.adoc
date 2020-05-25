@@ -1,0 +1,8 @@
+= avro2s3-scala-snippet
+:toc:
+
+== Abstract
+
+How can I send streamed data to S3? link:[Avro] would be an interesting format.
+
+This snippet compiles but it's not tested yet.
